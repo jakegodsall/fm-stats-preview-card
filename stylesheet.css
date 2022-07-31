@@ -14,7 +14,7 @@ body {
   display: flex;
   flex-direction: column;
   width: 85vw;
-  height: auto;
+  height: 740px;
   background-color: hsl(244deg, 38%, 16%);
   border-radius: 15px;
   overflow: hidden;
@@ -64,7 +64,7 @@ body {
   margin: 5px;
 }
 
-@media screen and (min-width: 500px) {
+@media screen and (min-width: 600px) {
   .container {
     display: flex;
     flex-direction: row-reverse;
