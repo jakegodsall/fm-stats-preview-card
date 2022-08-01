@@ -13,7 +13,7 @@ body {
 .container {
   display: flex;
   flex-direction: column;
-  width: 85vw;
+  width: 320px;
   height: 740px;
   background-color: hsl(244deg, 38%, 16%);
   border-radius: 15px;
@@ -64,12 +64,12 @@ body {
   margin: 5px;
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 850px) {
   .container {
     display: flex;
     flex-direction: row-reverse;
     height: 400px;
-    width: 50vw;
+    width: 850px;
   }
   .hero-image {
     flex: 1;
