@@ -12,7 +12,7 @@
     "author": "Jake Godsall",
     "license": "ISC",
     "devDependencies": {
-        "live-server": "^1.2.2",
+        "lite-server": "^2.6.1",
         "sass": "^1.69.5"
     }
 }
