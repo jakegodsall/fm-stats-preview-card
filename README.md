@@ -12,7 +12,7 @@ Users should be able to:
 
 ### Screenshot
 
-<img src="first-desktop.png" alt="Desktop layout" width=700px>
+<img src="./completed/first-desktop.png" alt="Desktop layout" width=700px>
 
 ### Links
 
